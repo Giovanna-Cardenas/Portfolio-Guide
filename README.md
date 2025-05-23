@@ -1,8 +1,10 @@
-# Portfolio Guide
+# 🗂️ Portfolio Guide
 ------
 Welcome to my portfolio! In this guide, I highlight a collection of my projects in the field of data, each summarized for easy exploration.
 
 ----
+<br>
+
 ## Python
 
 | Project Link | Area of Analysis | Project Description | Libraries |
